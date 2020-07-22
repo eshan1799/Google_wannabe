@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+   margin-left:5%;
+   margin-top: 20%;
+}
+
+#search_bar {
+  width:340px;
+  height:20px;
+}
+
+#page_btn, #results_btn {
+  width: 80px;
+}
+
+#page_btn {
+  margin-left: 180px;
+}

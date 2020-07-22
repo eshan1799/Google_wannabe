@@ -1,0 +1,31 @@
+h1{
+    font-family: 'ABeeZee';
+    margin-left:3%;
+    font-size: 40px;
+    padding-top: 3%;
+}
+
+#list {
+    font-family: 'ABeeZee';
+    font-size: 30px;
+    margin-left: 3%;
+    margin-top: 5%;
+    
+    color: black;
+   
+
+}
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    
+   
+}
+
+p {
+    text-align: right;
+    margin-top: 3%;
+}
